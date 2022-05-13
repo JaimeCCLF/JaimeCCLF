@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Jaime Cesar Carlos Lemes Filho 😎💻
+## Bem-vindo(a) ao perfil de Jaime Cesar Carlos Lemes Filho💻
    ![MatrixSVG](.github/workflows/matrix.svg)
 
 
